@@ -1,15 +1,15 @@
 <p align="center">
- <img height=200px src="./traffic-signal.jpg" alt="Traffic Signal Timer">
+ <img height=200px src="./traffic-signal.jpg" alt="Smart City Traffic Pattern">
 </p>
 
-<h1 align="center">Adaptive Traffic Signal Timer</h1>
+<h1 align="center">Smart City Traffic Pattern</h1>
 
 <div align="center">
 
 [![Python version](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
 [![License: Apache 2](https://img.shields.io/badge/License-Apache-yellow.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-<h4>This Adaptive Traffic Signal Timer uses live images from the cameras at traffic junctions for traffic density calculation using YOLO object detection and sets the signal timers accordingly, thus reducing the traffic congestion on roads, providing faster transit to people, and reducing fuel consumption.</h4>
+<h4>This Smart City Traffic Pattern uses live images from the cameras at traffic junctions for traffic density calculation using YOLO object detection and sets the signal timers accordingly, thus reducing the traffic congestion on roads, providing faster transit to people, and reducing fuel consumption.</h4>
 
 </div>
 
