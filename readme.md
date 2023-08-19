@@ -33,7 +33,7 @@ This project can be broken down into 3 modules:
 
 3. `Simulation Module` - A simulation is developed from scratch using [Pygame](https://www.pygame.org/news) library to simulate traffic signals and vehicles moving across a traffic intersection.
 
-Read more about object detection model used, working of the algorithm, and development of simulation [here](./Adaptive_Traffic_Signal_Timer_Implementation_Details.pdf).
+Read more about object detection model used, working of the algorithm, and development of simulation [here](./Smart-city--traffic pattern_Implementation_Details.pdf).
 
 ------------------------------------------
 ### Demo
@@ -63,15 +63,15 @@ Read more about object detection model used, working of the algorithm, and devel
 
 * Step I: Clone the Repository
 ```sh
-      $ git clone https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer
+      $ git clone https://github.com/mihir-m-gandhi/Smart-city--traffic pattern
 ```
 
-* Step II: Download the weights file from [here](https://drive.google.com/file/d/1flTehMwmGg-PMEeQCsDS2VWRLGzV6Wdo/view?usp=sharing) and place it in the Adaptive-Traffic-Signal-Timer/Code/YOLO/darkflow/bin directory
+* Step II: Download the weights file from [here](https://drive.google.com/file/d/1flTehMwmGg-PMEeQCsDS2VWRLGzV6Wdo/view?usp=sharing) and place it in the Smart-city--traffic pattern/Code/YOLO/darkflow/bin directory
 
 * Step III: Install the required packages
 ```sh
-      # On the terminal, move into Adaptive-Traffic-Signal-Timer/Code/YOLO/darkflow directory
-      $ cd Adaptive-Traffic-Signal-Timer/Code/YOLO/darkflow
+      # On the terminal, move into Smart-city--traffic pattern/Code/YOLO/darkflow directory
+      $ cd Smart-city--traffic pattern/Code/YOLO/darkflow
       $ pip install -r requirements.txt
       $ python setup.py build_ext --inplace
 ```
